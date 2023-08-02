@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Amit Kumar. A data science ethusiast. Striving to work on projects which have the ability to change the world.
